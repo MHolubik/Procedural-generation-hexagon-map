@@ -1,0 +1,21 @@
+{
+  "name": "com.holubik.procgenhexa",
+  "version": "1.0.0",
+  "displayName": "Proceduraly generated hexagon map",
+  "description": "This is proceduraly generated hexagon map",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Holub\u00edk Michal",
+    "email": "michal.holubik@tul.cz",
+    "url": "https://www.unity3d.com"
+  }
+}
